@@ -1,5 +1,4 @@
   <div> <p align="left"><h2> Olá, eu sou o Gabriel Moraes 👋 
-    <img align="right" alt="Tanjiro Kamado" height="215em" src="https://c.tenor.com/ESVgd3T5YlcAAAAC/demon-slayer-anime.gif"></h2>
   🎓 Colégio Técnico Rezende Rammel - <b>Ensino Médio Técnico em Informática</b> 
   </p>
   </div>
