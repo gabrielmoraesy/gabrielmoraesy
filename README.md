@@ -1,6 +1,5 @@
-  <div> <p align="left"><h2> Olá, eu sou o Gabriel Moraes 👋 
-  🎓 Colégio Técnico Rezende Rammel - <b>Ensino Médio Técnico em Informática</b> 
-  </p>
+  <div> 
+    <p align="left"><h2> Olá, eu sou o Gabriel Moraes 👋</p>
   </div>
 
   <div style="display: inline_block"><h2 align="left">Habilidades 🔥</h2>
@@ -33,7 +32,5 @@
   <a href="https://www.instagram.com/moraesdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ygabrielmoraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielmoraespires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/gabrielmoraesy/gabrielmoraesy/blob/main/cobrinha.svg)
  
 </div>
