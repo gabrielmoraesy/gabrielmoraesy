@@ -14,6 +14,10 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="Icon JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    </a>
+
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/TypeScript">
+    <img align="center" alt="Icon TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+   </a>
   
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
     <img align="center" alt="React" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
