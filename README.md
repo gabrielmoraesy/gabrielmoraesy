@@ -23,6 +23,10 @@
     <img align="center" alt="React" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
 
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+    <img align="center" alt="React" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/nextjs.svg" />
+  </a>
+
  
 <h2 align="left">Status 📊</h2>
  <div>
