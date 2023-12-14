@@ -24,7 +24,7 @@
   </a>
 
   <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-    <img align="center" alt="React" height="42" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" />
+    <img align="center" alt="React" height="42" width="50" src="https://cdn.jsdelivr.net/npm/next@14.0.4/dist/server/next.min.js" />
   </a>
 
  
