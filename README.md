@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielmoraesy.gabrielmoraesy" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+, bem vindos ao meu perfil!+👋;+Eu+sou+o+Gabriel+Moraes!;" />
@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 Minhas contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrielmoraesy/gabrielmoraesy/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
