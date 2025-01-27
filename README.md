@@ -2,7 +2,7 @@
 
 <div align="center">
     <h3 align="center">Desenvolvedor Front End</h3>
-    ⚡ Tenho 18 anos, e estou buscando evoluir a cada dia mais!
+    ⚡ Tenho 19 anos, e estou buscando evoluir a cada dia mais!
 </div>
  
 <div align="center"> 
